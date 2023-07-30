@@ -25,6 +25,6 @@
 </div>
 
 <div>
-  [![junseok-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseok-99&show_icons=true&theme=radical)
+  ![junseok-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseok-99&show_icons=true&theme=radical)
 </div>
 
