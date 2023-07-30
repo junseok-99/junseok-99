@@ -23,4 +23,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=angec5645@naver.com)](https://solved.ac/angec5645@naver.com/)
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junseok-99&show_icons=true&theme=radical)
