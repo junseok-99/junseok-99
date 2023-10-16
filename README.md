@@ -25,7 +25,13 @@
 </div>
 
 <div>
+  <h1>My Github State<h2>
   <img align='left' src="https://github-readme-stats.vercel.app/api?username=junseok-99&show_icons=true&theme=radical">
+</div>
+
+<div>
+  <h1>My BaekJoon Rank<h2>
   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=angec5647">
 </div>
+
 
