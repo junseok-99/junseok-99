@@ -25,6 +25,11 @@
 </div>
 
 <div>
+  <h1>포트폴리오</h1>
+  <a href="https://battle-pullover-675.notion.site/12ab9ef3966c80fdabd9de9cf969294d?pvs=4">포트폴리오 LINK</a>
+</div>
+
+<div>
   <h1>My Github State<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=junseok-99&show_icons=true&theme=radical">
 </div>
